@@ -1,4 +1,4 @@
-# DostumNerede App UI Screens
+# DostumNerede App
 ### Screenshots
 
 
